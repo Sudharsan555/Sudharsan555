@@ -1,8 +1,8 @@
 # Hi there, I'm Sowmiyan S!
-![GitHub followers](https://img.shields.io/github/followers/sowmiyan-s?label=Follow&style=social)
-![GitHub stars](https://img.shields.io/# Hi there, I'm Sowmiyan S!
+
 ![GitHub followers](https://img.shields.io/github/followers/sowmiyan-s?label=Follow&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/sowmiyan-s?style=social)
+
 ## About Me
 
 I'm a tech-savvy engineering student obsessed with breaking down complex systems and rebuilding them cooler and cleaner. Currently knee-deep in Data Structure and Machine Learning because looks **do** matter in code.  
