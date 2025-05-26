@@ -28,7 +28,18 @@ I'm the founder of [**Bound by Code**](https://instagram.com/bound_by_code), a d
 
 ## Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/sowmiyan-s)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/sowmiyan_s_)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://instagram.com/sowmiyan_s_)  
-[![Bound by Code](https://img.shields.io/badge/-Bound_by_Code-000000?logo=github&logoColor=white&style=flat-square)](https://instagram.com/bound_by_code)
+### Me – Sowmiyan S
+
+[![Instagram](https://img.shields.io/badge/-@sowmiyan__s__-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/sowmiyan_s_)  
+[![Twitter](https://img.shields.io/badge/-@sowmiyan__s__-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/sowmiyan_s)  
+[![LinkedIn](https://img.shields.io/badge/-Sowmiyan%20S-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/sowmiyan-s)  
+[![GitHub](https://img.shields.io/badge/-sowmiyan--s-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/SOWMIYAN-S)  
+
+---
+
+### Bound by Code
+
+[![Instagram](https://img.shields.io/badge/-@bound__by__code-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/bound_by_code)  
+[![Twitter](https://img.shields.io/badge/-@bound__by__code-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/bound_by_code)  
+
+[![YouTube](https://img.shields.io/badge/-Bound%20by%20Code-FF0000?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/@bound_by_code)
