@@ -2,30 +2,29 @@
 
 ## About Me
 
-I'm a tech-savvy engineering student obsessed with breaking down complex systems and rebuilding them cooler and cleaner. Currently knee-deep in ReactJS and UI/UX design—because looks **do** matter in code.  
-I'm the founder of [**Bound by Code**](https://github.com/bound-by-code), a digital playground where I build, break, and share bleeding-edge tech with other code warriors. I also run [**Emeralz**](https://github.com/emeralz), a digital solutions squad for brands that want to look like they belong in 2030.
+I'm a tech-savvy engineering student obsessed with breaking down complex systems and rebuilding them cooler and cleaner. Currently knee-deep in Data Structure and Machine Learning because looks **do** matter in code.  
+I'm the founder of [**Bound by Code**](https://instagram.com/bound_by_code), a digital playground where I build, break, and share bleeding-edge tech with other code warriors. I also run a digital solutions squad for brands that want to look like they belong in 2030.
 
 - 🌱 Currently learning: Advanced ReactJS + brutal UI/UX principles.  
-- 💼 Founder of [**Bound by Code**](https://github.com/bound-by-code) & [**Emeralz**](https://github.com/emeralz).  
+- 💼 Founder of [**Bound by Code**](https://instagram.com/bound_by_code) & 
 - 📫 Ping me: [sowmisowmiyan58@gmail.com](mailto:sowmisowmiyan58@gmail.com)  
 - 🔗 All socials: [@bound_by_code](https://instagram.com/bound_by_code)  
-- 🧠 Personal handle: [@sowmiyan_s_](https://instagram.com/sowmiyan_s_)
+- ✨ Personal handle: [@sowmiyan_s_](https://instagram.com/sowmiyan_s_)
 
 ## Technologies & Tools
 
-- **Front-End:** ReactJS, HTML5, CSS3, JavaScript  
-- **Design:** Figma, Adobe XD  
-- **Deployments:** GitHub Pages, Netlify  
-- **Dev Essentials:** Git, VS Code
+- **Languages:** Python, JavaScript, C, 
+- **Web Dev:** HTML5, CSS3, Tailwind CSS, JavaScript
+- **Design & Prototyping:** Figma, Canva  
+- **AI/ML Stack:** NumPy, Pandas, scikit-learn  
+- **Database:** SQL, phpMyAdmin  
+- **Tools & Platforms:** Git, GitHub, VS Code, Netlify, GitHub Pages  
+- **OS & CLI:** Linux (Ubuntu), Windows, basic terminal/Bash
 
 ## GitHub Stats
 
 ![Sowmiyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sowmiyan-s&show_icons=true&theme=radical)
 
-## Featured Projects
-
-1. [**Bound by Code**](https://github.com/bound-by-code): Raw, real, no-BS platform for mastering code and tech from scratch.  
-2. [**Emeralz**](https://github.com/emeralz): Digital services for businesses that refuse to look outdated.
 
 ## Let's Connect
 
