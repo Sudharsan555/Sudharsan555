@@ -54,3 +54,5 @@ Founder of [**Bound by Code**](https://instagram.com/bound_by_code) — where we
 [![Twitter](https://img.shields.io/badge/-@bound__by__code-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/bound_by_code)  
 [![LinkedIn](https://img.shields.io/badge/-Bound%20by%20Code-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/bound-by-code)  
 [![YouTube](https://img.shields.io/badge/-Bound%20by%20Code-FF0000?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/@bound_by_code)
+![Profile Views](https://komarev.com/ghpvc/?username=SOWMIYAN-S)
+![GitHub Last commit](https://img.shields.io/github/last-commit/SOWMIYAN-S/SOWMIYAN-S)
