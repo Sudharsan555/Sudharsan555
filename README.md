@@ -1,6 +1,5 @@
 # Hi there, I'm Sowmiyan S!  
-![GitHub followers](https://img.shields.io/github/followers/sowmiyan-s?label=Follow&style=social)  
-![GitHub stars](https://img.shields.io/github/stars/sowmiyan-s?style=social)
+![Banner](https://github.com/SOWMIYAN-S/SOWMIYAN-S/blob/main/Sowmiyan%20S_20250529_163008_0001.gif)
 
 ## About Me
 
